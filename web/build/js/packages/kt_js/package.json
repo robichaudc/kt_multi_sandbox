@@ -1,0 +1,30 @@
+{
+  "main": "kotlin/kt_js.js",
+  "devDependencies": {
+    "webpack": "4.42.1",
+    "webpack-cli": "3.3.11",
+    "source-map-loader": "1.0.0",
+    "webpack-dev-server": "3.10.3",
+    "css-loader": "3.4.2",
+    "style-loader": "1.1.3",
+    "dukat": "0.5.7"
+  },
+  "dependencies": {
+    "kotlin": "file:/Users/A155793/repos/kt_js/build/js/packages_imported/kotlin/1.4.10",
+    "kotlinx-html-js": "file:/Users/A155793/repos/kt_js/build/js/packages_imported/kotlinx-html-js/0.7.2",
+    "kotlin-wrappers-kotlin-react-jsLegacy": "file:/Users/A155793/repos/kt_js/build/js/packages_imported/kotlin-wrappers-kotlin-react-jsLegacy/1.0.0-SNAPSHOT",
+    "kotlin-wrappers-kotlin-extensions-jsLegacy": "file:/Users/A155793/repos/kt_js/build/js/packages_imported/kotlin-wrappers-kotlin-extensions-jsLegacy/0.0.0",
+    "kotlinx-coroutines-core": "file:/Users/A155793/repos/kt_js/build/js/packages_imported/kotlinx-coroutines-core/1.3.9",
+    "kotlinx-atomicfu": "file:/Users/A155793/repos/kt_js/build/js/packages_imported/kotlinx-atomicfu/0.14.4",
+    "kotlin-wrappers-kotlin-react-dom-jsLegacy": "file:/Users/A155793/repos/kt_js/build/js/packages_imported/kotlin-wrappers-kotlin-react-dom-jsLegacy/1.0.0-SNAPSHOT",
+    "kotlin-wrappers-kotlin-styled-jsLegacy": "file:/Users/A155793/repos/kt_js/build/js/packages_imported/kotlin-wrappers-kotlin-styled-jsLegacy/1.0.0-SNAPSHOT",
+    "kotlin-css": "file:/Users/A155793/repos/kt_js/build/js/packages_imported/kotlin-css/1.0.0-pre.110-kotlin-1.4.10",
+    "kotlin-test-js-runner": "file:/Users/A155793/repos/kt_js/build/js/packages_imported/kotlin-test-js-runner/1.4.10",
+    "kotlin-test": "file:/Users/A155793/repos/kt_js/build/js/packages_imported/kotlin-test/1.4.10"
+  },
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": [],
+  "name": "kt_js",
+  "version": "1.0.0-SNAPSHOT"
+}
